@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "w3-band",
+			"path": "..\\..\\..\\html-css\\w3-band"
+		},
+		{
+			"name": "W3-band",
+			"path": "..\\..\\..\\W3-band"
+		},
+		{
+			"name": "f8-work",
+			"path": "..\\..\\..\\f8-work"
+		},
+		{
+			"path": "..\\w3-band"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "w3-band"
+	}
+}

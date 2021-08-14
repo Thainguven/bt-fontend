@@ -1,0 +1,101 @@
+/* PC */
+@media (max-width: 64em) {
+    
+}
+
+/* Tablet and mobile */
+@media (max-width: 63.9375em) {
+    .btn {
+        padding: 15px 16px;
+    }
+
+    .contact-from .from-control {
+        padding: 15px;
+    }
+
+    .socials-list {
+        font-size: 30px !important;
+        padding: 8px 0;
+    }
+
+    #footer .socials-list a {
+        padding: 0 8px;
+    }
+
+    #footer .Coppy-right {
+        font-size: 20px;
+    }
+
+    #footer .Coppy-right a {
+        padding: 11px 0 ;
+        display: inline-block;
+    }
+}
+
+
+/* Tablet */
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+    #content .content-section {
+        width: 100%;
+    }
+
+    .contact-info {
+        line-height: 2;
+    }
+}
+
+/* Moblie */
+@media (max-width: 46.1875em) {
+    .s-width-full,
+    .s-col-full {
+        width: 100% !important;
+    }
+
+    .s-mt-8 {
+        margin-top: 8px !important;
+    }
+    
+    #header {
+        overflow: hidden;
+    }
+
+    #header .mobile-menu-btn {
+        display: block;
+    }
+    
+    #header .search-button {
+        display: none;
+    }
+    
+    #nav {
+        display: block;
+    }
+
+    #nav li a {
+        padding: 1px 24px;
+    }
+
+    #nav > li {
+        display: block;
+    }
+
+    
+    #nav > li:first-child {
+        display: inline-block;
+    }
+    
+    #nav .subnav {
+        position: initial;
+        background-color: #333;
+    }
+    
+    #nav .subnav a {
+        color: #fff;
+        padding: 5px 41px;
+    }
+    
+    #content .member-img {
+        width: 60%;
+    }
+
+}
